@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/samples",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "eSAULOG",
+      "hasCanvas": false,
+      "bodyTextLen": 711,
+      "bodyTextHash": "3663380ad9991638c29a5b06557a73dce1f04deffe5ca13e042c4bf96cd2d6e9",
+      "bodyTextPrefix": "eSAULOG Product Packages Websites Apply Gate Sign in TUKODPH CMS",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/samples.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "eSAULOG",
+      "hasCanvas": false,
+      "bodyTextLen": 706,
+      "bodyTextHash": "aaa2a6364fb7343d5667eb2ecb0c159889b489c62d10db2ce4f624f583c66d20",
+      "bodyTextPrefix": "eSAULOG Sign in Product Packages Websites Apply TUKODPH CMS Fest",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/samples-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/samples.json"
+}

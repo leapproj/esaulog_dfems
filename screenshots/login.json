@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/login",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "eSAULOG",
+      "hasCanvas": false,
+      "bodyTextLen": 421,
+      "bodyTextHash": "eb69712b2b38361528109273f1a5cd9da61bf30e062b28c8a31af5e896d553b8",
+      "bodyTextPrefix": "eSAULOG Tenant sign in Enter your organizer ID and passkey to co",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/login.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "eSAULOG",
+      "hasCanvas": false,
+      "bodyTextLen": 421,
+      "bodyTextHash": "eb69712b2b38361528109273f1a5cd9da61bf30e062b28c8a31af5e896d553b8",
+      "bodyTextPrefix": "eSAULOG Tenant sign in Enter your organizer ID and passkey to co",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/login-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/login.json"
+}

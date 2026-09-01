@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/festivals",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "eSAULOG",
+      "hasCanvas": false,
+      "bodyTextLen": 823,
+      "bodyTextHash": "51fa50052becc076e74463f2d52c569e6eee1d04153e957f70bb4bcc00b62c6a",
+      "bodyTextPrefix": "eSAULOG Product Packages Festivals Websites Apply Sign in PROGRA",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/festivals.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "eSAULOG",
+      "hasCanvas": false,
+      "bodyTextLen": 823,
+      "bodyTextHash": "fd77a9e666c772a11d85c0c37c4cde1b49599959b798d08b4eba319149f5d118",
+      "bodyTextPrefix": "eSAULOG Sign in Product Packages Festivals Websites Apply PROGRA",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/festivals-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/festivals.json"
+}

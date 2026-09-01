@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/product",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "eSAULOG",
+      "hasCanvas": false,
+      "bodyTextLen": 1812,
+      "bodyTextHash": "831979971add8842b7ec5e520f8eb855200b0862332ce59b7432bbf67cfc9f85",
+      "bodyTextPrefix": "eSAULOG Product Packages Websites Apply Gate Sign in PRODUCT eSA",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/product.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "eSAULOG",
+      "hasCanvas": false,
+      "bodyTextLen": 1807,
+      "bodyTextHash": "5677242e6f5a6094e8cc686e4eba58b4d91921b20253bc0621d7ed4cd004d515",
+      "bodyTextPrefix": "eSAULOG Sign in Product Packages Websites Apply PRODUCT eSAULOG ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/product-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/product.json"
+}

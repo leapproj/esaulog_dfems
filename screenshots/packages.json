@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/packages",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "eSAULOG",
+      "hasCanvas": false,
+      "bodyTextLen": 1597,
+      "bodyTextHash": "d181d4b5db04f732396d506a2316d3fefb17137218bb3da691931027703b4d3c",
+      "bodyTextPrefix": "eSAULOG Product Packages Websites Apply Gate Sign in LICENSES Pa",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/packages.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "eSAULOG",
+      "hasCanvas": false,
+      "bodyTextLen": 1592,
+      "bodyTextHash": "181d64cb0937296234cd35fd24405929726e07773314e5b48fb76157594ed712",
+      "bodyTextPrefix": "eSAULOG Sign in Product Packages Websites Apply LICENSES Package",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/packages-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/packages.json"
+}

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "eSAULOG",
+      "hasCanvas": false,
+      "bodyTextLen": 1054,
+      "bodyTextHash": "b0828d603d5a89b46b6ec1c84194000f072aa198308ba14dbb5d5db308cea148",
+      "bodyTextPrefix": "eSAULOG Product Packages Festivals Websites Apply Sign in TUKODP",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "eSAULOG",
+      "hasCanvas": false,
+      "bodyTextLen": 1054,
+      "bodyTextHash": "22cd4d5ea8b068da4c63376efac524cf0eb3567926682499f3e45ffa5d76298c",
+      "bodyTextPrefix": "eSAULOG Sign in Product Packages Festivals Websites Apply TUKODP",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

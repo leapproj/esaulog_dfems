@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/festivals/higalaay-2026",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "eSAULOG",
+      "hasCanvas": false,
+      "bodyTextLen": 1759,
+      "bodyTextHash": "183b2e062fbb0a40ecccdb633feb691980e0beabd97c0bc8897a96b567f64f9f",
+      "bodyTextPrefix": "eSAULOG Product Packages Festivals Websites Apply Sign in HG LIV",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/higalaay-hub.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "eSAULOG",
+      "hasCanvas": false,
+      "bodyTextLen": 1759,
+      "bodyTextHash": "e89ef93ff03aa824439018a6d486e5305694e0e11d870c324997a29277fcea9b",
+      "bodyTextPrefix": "eSAULOG Sign in Product Packages Festivals Websites Apply HG LIV",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/higalaay-hub-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/higalaay-hub.json"
+}

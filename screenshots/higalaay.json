@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/f/higalaay-2026",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "eSAULOG",
+      "hasCanvas": false,
+      "bodyTextLen": 2337,
+      "bodyTextHash": "f938bbeb1f7aa72609bff482bff82f388494e4fd2f6b8ddf29a3355908a44aec",
+      "bodyTextPrefix": "eSAULOG Get ePASS CAGAYAN DE ORO · FESTIVAL OF FRIENDSHIP Higala",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/higalaay.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "eSAULOG",
+      "hasCanvas": false,
+      "bodyTextLen": 2337,
+      "bodyTextHash": "f938bbeb1f7aa72609bff482bff82f388494e4fd2f6b8ddf29a3355908a44aec",
+      "bodyTextPrefix": "eSAULOG Get ePASS CAGAYAN DE ORO · FESTIVAL OF FRIENDSHIP Higala",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/higalaay-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/higalaay.json"
+}
